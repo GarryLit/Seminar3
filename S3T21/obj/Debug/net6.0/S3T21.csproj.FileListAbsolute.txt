@@ -1,0 +1,15 @@
+D:\Seminar3\S3T21\bin\Debug\net6.0\S3T21.exe
+D:\Seminar3\S3T21\bin\Debug\net6.0\S3T21.deps.json
+D:\Seminar3\S3T21\bin\Debug\net6.0\S3T21.runtimeconfig.json
+D:\Seminar3\S3T21\bin\Debug\net6.0\S3T21.dll
+D:\Seminar3\S3T21\bin\Debug\net6.0\ref\S3T21.dll
+D:\Seminar3\S3T21\bin\Debug\net6.0\S3T21.pdb
+D:\Seminar3\S3T21\obj\Debug\net6.0\S3T21.csproj.AssemblyReference.cache
+D:\Seminar3\S3T21\obj\Debug\net6.0\S3T21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar3\S3T21\obj\Debug\net6.0\S3T21.AssemblyInfoInputs.cache
+D:\Seminar3\S3T21\obj\Debug\net6.0\S3T21.AssemblyInfo.cs
+D:\Seminar3\S3T21\obj\Debug\net6.0\S3T21.csproj.CoreCompileInputs.cache
+D:\Seminar3\S3T21\obj\Debug\net6.0\S3T21.dll
+D:\Seminar3\S3T21\obj\Debug\net6.0\ref\S3T21.dll
+D:\Seminar3\S3T21\obj\Debug\net6.0\S3T21.pdb
+D:\Seminar3\S3T21\obj\Debug\net6.0\S3T21.genruntimeconfig.cache

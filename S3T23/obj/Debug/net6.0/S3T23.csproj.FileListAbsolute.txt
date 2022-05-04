@@ -1,0 +1,15 @@
+D:\Seminar3\S3T23\bin\Debug\net6.0\S3T23.exe
+D:\Seminar3\S3T23\bin\Debug\net6.0\S3T23.deps.json
+D:\Seminar3\S3T23\bin\Debug\net6.0\S3T23.runtimeconfig.json
+D:\Seminar3\S3T23\bin\Debug\net6.0\S3T23.dll
+D:\Seminar3\S3T23\bin\Debug\net6.0\ref\S3T23.dll
+D:\Seminar3\S3T23\bin\Debug\net6.0\S3T23.pdb
+D:\Seminar3\S3T23\obj\Debug\net6.0\S3T23.csproj.AssemblyReference.cache
+D:\Seminar3\S3T23\obj\Debug\net6.0\S3T23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar3\S3T23\obj\Debug\net6.0\S3T23.AssemblyInfoInputs.cache
+D:\Seminar3\S3T23\obj\Debug\net6.0\S3T23.AssemblyInfo.cs
+D:\Seminar3\S3T23\obj\Debug\net6.0\S3T23.csproj.CoreCompileInputs.cache
+D:\Seminar3\S3T23\obj\Debug\net6.0\S3T23.dll
+D:\Seminar3\S3T23\obj\Debug\net6.0\ref\S3T23.dll
+D:\Seminar3\S3T23\obj\Debug\net6.0\S3T23.pdb
+D:\Seminar3\S3T23\obj\Debug\net6.0\S3T23.genruntimeconfig.cache

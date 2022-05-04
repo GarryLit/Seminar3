@@ -1,0 +1,15 @@
+D:\Seminar3\S3T19\obj\Debug\net6.0\S3T19.csproj.AssemblyReference.cache
+D:\Seminar3\S3T19\obj\Debug\net6.0\S3T19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar3\S3T19\obj\Debug\net6.0\S3T19.AssemblyInfoInputs.cache
+D:\Seminar3\S3T19\obj\Debug\net6.0\S3T19.AssemblyInfo.cs
+D:\Seminar3\S3T19\obj\Debug\net6.0\S3T19.csproj.CoreCompileInputs.cache
+D:\Seminar3\S3T19\bin\Debug\net6.0\S3T19.exe
+D:\Seminar3\S3T19\bin\Debug\net6.0\S3T19.deps.json
+D:\Seminar3\S3T19\bin\Debug\net6.0\S3T19.runtimeconfig.json
+D:\Seminar3\S3T19\bin\Debug\net6.0\S3T19.dll
+D:\Seminar3\S3T19\bin\Debug\net6.0\ref\S3T19.dll
+D:\Seminar3\S3T19\bin\Debug\net6.0\S3T19.pdb
+D:\Seminar3\S3T19\obj\Debug\net6.0\S3T19.dll
+D:\Seminar3\S3T19\obj\Debug\net6.0\ref\S3T19.dll
+D:\Seminar3\S3T19\obj\Debug\net6.0\S3T19.pdb
+D:\Seminar3\S3T19\obj\Debug\net6.0\S3T19.genruntimeconfig.cache
